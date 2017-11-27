@@ -1,0 +1,2 @@
+Image	Transverse	Oblique	Longitudinal
+MAX_Image 21-1.tif	6.57297	34.0377	59.3894
